@@ -1,4 +1,4 @@
 Today:- 16
 homework 
 1. WAP to display name,class and address given by user.
-2. WAP to display hobby,age given by user;
+2. WAP to display hobby,age given by user.
