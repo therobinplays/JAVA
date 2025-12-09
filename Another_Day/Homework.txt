@@ -1,3 +1,5 @@
 08-10-2082 :- https://www.geeksforgeeks.org/java/classes-objects-java/
 
 09-12-2025 https://www.tpointtech.com/static-keyword-in-java
+
+Q.no 1 --- What is heap and stack ? How they store data of a variable function and method.
