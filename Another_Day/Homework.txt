@@ -5,8 +5,10 @@
 Q.no 1 --- What is heap and stack ? How they store data of a variable function and method.
 
 If i don't know anything 
--- act as an professional " field " and i am class 11 student of class 9-12 computer enginerring , 
+-- act as an professional " field " and i am class 11 student of class 9-12 computer engineering , 
 my instructor has assigned me to develop a cli based project , i am working on a " cafe order management
 system " and other accorting to you. ----- ( "so i could be an expert " ) -----
 
 before giving promt use ----- (" act as (field expert)" ) -----
+
+Important Home Work ( " Learn about prompt engineering and present a ppt ." )
