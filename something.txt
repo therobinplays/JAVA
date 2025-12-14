@@ -1,0 +1,15 @@
+1. Number Gussing Game
+- Creat a Guess class with :
+-> Select number initialized in constructor
+-> Method to check guess using if-else
+( Repeat guessing using while loop until correct. )
+-> Creat object.
+
+2. Employee Salary System:
+create a employee class with :-
+-name, basic Salary
+-constructor
+-method to calculate bonus
+ -if salarry less > 30000 / bonus is 10 %
+ -else bonus = 5 %
+ -use if-else and create object
