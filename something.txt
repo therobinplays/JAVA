@@ -6,7 +6,7 @@
 -> Select number initialized in constructor
 -> Method to check guess using if-else
 ( Repeat guessing using while loop until correct. )
--> Creat object.
+-> Create object.
 
 ---------------------------------------------------------------------------------------------------
 
