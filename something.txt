@@ -21,3 +21,5 @@ create a employee class with :-
  -use if-else and create object
 
  ----------------------------------------------------------------------------------------------------
+
+ 3. Make the " 1 " advance in another file .
