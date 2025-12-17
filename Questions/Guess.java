@@ -21,25 +21,54 @@ public class Guess {
             int userInput = scan.nextInt();
             count++;
 
-
-            if (userInput > value) 
+            if (userInput == 30) 
             {
-                System.out.println("Your provided number " + userInput + " is greater than the Secret Number.");
-            } 
+                System.out.println("Your provided number " + userInput + " is double of the Secret Number.");
+            }
+
+            else if (userInput >= 16 && userInput <= 20) 
+            {
+                System.out.println("Your provided number " + userInput + " is very close, but greater than the Secret Number.");
+            }
+
+            else if (userInput >= 21 && userInput <= 50)
+            {
+                System.out.println("Your provided number " + userInput +" is greater than the Secret Number.");
+            }
+
+            else if (userInput >= 51 && userInput <= 100)
+            {
+                System.out.println("Your provided number " + userInput + " is too greater than the Secret Number.");
+            }
+
+            else if (userInput > 100)
+            {
+                System.out.println("Your provided number " + userInput + " is out of range, too greater than the Secret Number.");
+            }
+
+            else if (userInput <= 0)
+            {
+                System.out.println("Your provided number " + userInput +" is too smaller than the Secret Number.");
+            }
             
-            else if (userInput < value) 
+            else if (userInput >= 1 && userInput <= 10) 
             {
                 System.out.println("Your provided number " + userInput + " is smaller than the Secret Number.");
             } 
+
+            else if(userInput >= 11 && userInput <= 14)
+            {
+                System.out.println("Your provided number " + userInput +" is very close, but smaller than the Secret Number.");
+            }
             
             else 
             {
-                System.out.println("You guess that the Secret number is " + userInput + " , thats absolutely correct !");
+                System.out.println("You guess that the Secret Number is " + userInput + " , thats absolutely correct !");
                 break;
             }
         }
         
-        System.out.println("You have Guess the number in " + count + " Attempts.");
+        System.out.println("You have Guess the Secret Number in " + count + " Attempts.");
         scan.close();
     }
 
