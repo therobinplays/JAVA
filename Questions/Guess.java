@@ -21,6 +21,9 @@ public class Guess {
             int userInput = scan.nextInt();
             count++;
 
+            int interval = Math.abs(userInput-value);
+
+
             if (userInput == 30) 
             {
                 System.out.println("Your provided number " + userInput + " is double of the Secret Number.");

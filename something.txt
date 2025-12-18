@@ -106,4 +106,13 @@ public class Guess {
         Guess g = new Guess(15);
         g.check();
     }
+    
 } ''' if the given number is random, instead of 15.
+
+--------------------------------------------------------------------------------------------------------
+
+Er.  S U B J E C T S - all notes
+
+https://nepalenotes.com/2024/09/class-11-computer-engineering-notes/
+
+--------------------------------------------------------------------------------------------------------
