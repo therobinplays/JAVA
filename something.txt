@@ -116,3 +116,30 @@ Er.  S U B J E C T S - all notes
 https://nepalenotes.com/2024/09/class-11-computer-engineering-notes/
 
 --------------------------------------------------------------------------------------------------------
+
+2. Rock, Paper, Scissors
+
+Concept:
+Player chooses Rock, Paper, or Scissors; computer chooses randomly.
+
+Why it’s good:
+
+Fast and fun
+
+Introduces enums or constants
+
+Core features:
+
+Menu-driven input
+
+Random computer choice
+
+Win/lose/draw logic
+
+Score tracking
+
+Example twist:
+
+Play best of 3 or best of 5.
+
+--------------------------------------------------------------------------------------------------------
