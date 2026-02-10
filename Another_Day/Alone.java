@@ -22,3 +22,4 @@ public class Alone {
         scan.close();
     }
 }
+
